@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Supply Base",
+    "slug": "Supply Base",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Supply Base"
+}
